@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Hektor, a passionate fullstack developer from Europe!
-- 
-  🔨 I'm currently working on a [supermarket website](https://github.com/Hekt000r/market-site)
+- this profile is still a wip
   ## My skills
 
   ## Advanced
