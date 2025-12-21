@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Hektor
 
-I'm a **self-taught full-stack web developer** from **Eastern Europe**, i mostly focus on building modern and reliable B2B sites.
+I'm a **self-taught full-stack web developer** from **Eastern Europe**.
 
-## 🧠 What I’m into
+## 🧠 What i build
 - B2B web applications
 - Real-time apps (chat, live updates, sockets)
 - Security-focused backend design
