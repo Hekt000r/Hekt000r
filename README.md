@@ -11,7 +11,8 @@ I am a **self-taught Full-Stack Developer** specializing in building secure, sca
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hekt000r&theme=dark&hide_border=true)
 ### ⚡ Quick Stats
 <p align="left">
-  ![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 </p>
 
 ---
