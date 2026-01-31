@@ -11,8 +11,7 @@ I am a **self-taught Full-Stack Developer** specializing in building secure, sca
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hekt000r&theme=dark&hide_border=true)
 ### ⚡ Quick Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hekt000r&show_icons=true&theme=radical" alt="Hektor's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hekt000r&layout=compact&theme=radical" alt="Top Languages" />
+  ![Stats](./profile/stats.svg)
 </p>
 
 ---
